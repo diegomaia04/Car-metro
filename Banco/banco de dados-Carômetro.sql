@@ -16,4 +16,7 @@ create table alunos (
   describe alunos; 
   
   select * from alunos;
-  select * from alunos where nome = "andy";
+  select * from alunos where nome = "";
+  
+  
+  
